@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using System.Diagnostics.CodeAnalysis;
+using System.IO.Pipelines;
 using System.Reflection.Metadata.Ecma335;
 
 namespace Common;
@@ -34,6 +35,23 @@ public class IOTool
         foreach (string i in parts) nums.Add(Convert.ToInt32(i));
 
         return nums;
+    }
+
+    public static IEnumerable<IEnumerable<T>> GetAllCombinations<T>(IEnumerable<T> values)
+    {
+        int length = values.Count();
+
+        IEnumerable<IEnumerable<T>> result = [];
+
+        for (int i = 0; i < (1 << length); i++)
+        {
+            IEnumerable<T> subset = [];
+            for (int x = 0; x < length; x++) if ((i & (1 << x)) != 0) subset = subset.Append(values.ElementAt(x));
+
+            result = result.Append(subset);
+        }
+
+        return result;
     }
 
     public static void PrintList<T>(List<T> arr)
