@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ae+dgUe1zv0=",
+  "dgSpecHash": "NfgXkuyRcBQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kshit\\Documents\\ALEVEL\\C-Sharp\\Bitwise\\Bitwise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kshitij/Documents/code/C-Sharp/Bitwise/Bitwise.csproj",
+  "expectedPackageFiles": [
+    "/home/kshitij/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

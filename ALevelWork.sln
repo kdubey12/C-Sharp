@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIO2007", "BIO2007\BIO2007.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIO2008", "BIO2008\BIO2008.csproj", "{C9A8B962-C450-41B4-9C0F-2E04EAE06225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github-classroom-basics-kdubey12", "github-classroom-basics-kdubey12\github-classroom-basics-kdubey12.csproj", "{D9C0B79B-F14E-4FED-9188-68CCB8A35651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,18 @@ Global
 		{C9A8B962-C450-41B4-9C0F-2E04EAE06225}.Release|x64.Build.0 = Release|Any CPU
 		{C9A8B962-C450-41B4-9C0F-2E04EAE06225}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9A8B962-C450-41B4-9C0F-2E04EAE06225}.Release|x86.Build.0 = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|x64.Build.0 = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Debug|x86.Build.0 = Debug|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x64.ActiveCfg = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x64.Build.0 = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x86.ActiveCfg = Release|Any CPU
+		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

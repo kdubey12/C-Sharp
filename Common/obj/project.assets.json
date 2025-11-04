@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kshit\\.nuget\\packages\\": {}
+    "/home/kshitij/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kshit\\Documents\\ALEVEL\\C-Sharp\\Common\\Common.csproj",
+      "projectUniqueName": "/home/kshitij/Documents/code/C-Sharp/Common/Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\kshit\\Documents\\ALEVEL\\C-Sharp\\Common\\Common.csproj",
-      "packagesPath": "C:\\Users\\kshit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kshit\\Documents\\ALEVEL\\C-Sharp\\Common\\obj\\",
+      "projectPath": "/home/kshitij/Documents/code/C-Sharp/Common/Common.csproj",
+      "packagesPath": "/home/kshitij/.nuget/packages/",
+      "outputPath": "/home/kshitij/Documents/code/C-Sharp/Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kshit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/kshitij/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -60,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5193k9YahQ=",
+  "dgSpecHash": "8b2q2kByhbw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kshit\\Documents\\ALEVEL\\C-Sharp\\Strings\\Strings.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kshitij/Documents/code/C-Sharp/Strings/Strings.csproj",
+  "expectedPackageFiles": [
+    "/home/kshitij/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
