@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIO2008", "BIO2008\BIO2008.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github-classroom-basics-kdubey12", "github-classroom-basics-kdubey12\github-classroom-basics-kdubey12.csproj", "{D9C0B79B-F14E-4FED-9188-68CCB8A35651}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovemberTest", "NovemberTest\NovemberTest.csproj", "{262FEE74-E774-4E39-9184-F4065EDF99CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x64.Build.0 = Release|Any CPU
 		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x86.ActiveCfg = Release|Any CPU
 		{D9C0B79B-F14E-4FED-9188-68CCB8A35651}.Release|x86.Build.0 = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|x64.Build.0 = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{262FEE74-E774-4E39-9184-F4065EDF99CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
