@@ -1,4 +1,4 @@
-﻿﻿using System.Diagnostics;
+﻿using System.Diagnostics;
 
 /* Fix me */
 List<string> listOfStrings = new List<string>() { "13", "Candy", "Mike Myers", "True", "#FF5F1F", "1978" };
